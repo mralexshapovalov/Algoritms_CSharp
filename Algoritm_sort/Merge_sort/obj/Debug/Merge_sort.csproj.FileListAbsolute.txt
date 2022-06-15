@@ -1,0 +1,8 @@
+C:\Users\Александр\source\repos\Algoritms_CSharp\Merge_sort\bin\Debug\Merge_sort.exe.config
+C:\Users\Александр\source\repos\Algoritms_CSharp\Merge_sort\bin\Debug\Merge_sort.exe
+C:\Users\Александр\source\repos\Algoritms_CSharp\Merge_sort\bin\Debug\Merge_sort.pdb
+C:\Users\Александр\source\repos\Algoritms_CSharp\Merge_sort\obj\Debug\Merge_sort.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Algoritms_CSharp\Merge_sort\obj\Debug\Merge_sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\source\repos\Algoritms_CSharp\Merge_sort\obj\Debug\Merge_sort.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Algoritms_CSharp\Merge_sort\obj\Debug\Merge_sort.exe
+C:\Users\Александр\source\repos\Algoritms_CSharp\Merge_sort\obj\Debug\Merge_sort.pdb

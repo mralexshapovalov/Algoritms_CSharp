@@ -1,0 +1,8 @@
+C:\Users\Александр\source\repos\Algoritms_CSharp\Shell_Sort\bin\Debug\Shell_Sort.exe.config
+C:\Users\Александр\source\repos\Algoritms_CSharp\Shell_Sort\bin\Debug\Shell_Sort.exe
+C:\Users\Александр\source\repos\Algoritms_CSharp\Shell_Sort\bin\Debug\Shell_Sort.pdb
+C:\Users\Александр\source\repos\Algoritms_CSharp\Shell_Sort\obj\Debug\Shell_Sort.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Algoritms_CSharp\Shell_Sort\obj\Debug\Shell_Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\source\repos\Algoritms_CSharp\Shell_Sort\obj\Debug\Shell_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Algoritms_CSharp\Shell_Sort\obj\Debug\Shell_Sort.exe
+C:\Users\Александр\source\repos\Algoritms_CSharp\Shell_Sort\obj\Debug\Shell_Sort.pdb

@@ -1,0 +1,8 @@
+C:\Users\Александр\source\repos\Algoritms_CSharp\Binary_search\bin\Debug\Binary_search.exe.config
+C:\Users\Александр\source\repos\Algoritms_CSharp\Binary_search\bin\Debug\Binary_search.exe
+C:\Users\Александр\source\repos\Algoritms_CSharp\Binary_search\bin\Debug\Binary_search.pdb
+C:\Users\Александр\source\repos\Algoritms_CSharp\Binary_search\obj\Debug\Binary_search.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Algoritms_CSharp\Binary_search\obj\Debug\Binary_search.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\source\repos\Algoritms_CSharp\Binary_search\obj\Debug\Binary_search.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Algoritms_CSharp\Binary_search\obj\Debug\Binary_search.exe
+C:\Users\Александр\source\repos\Algoritms_CSharp\Binary_search\obj\Debug\Binary_search.pdb
